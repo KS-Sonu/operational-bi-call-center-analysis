@@ -6,8 +6,10 @@ Operational Performance Dashboard – Call Center Analysis
 
 This project analyzes call center operational data to understand call volume trends, agent performance, customer satisfaction, and revenue contribution. The goal is to support data-driven staffing, performance evaluation, and operational decision-making.
 
+-----
 
-🎯 Business Objectives
+
+##🎯 Business Objectives
 
 Identify peak call periods by month and day
 
@@ -17,29 +19,29 @@ Analyze customer satisfaction through rating distribution
 
 Highlight operational inefficiencies and improvement opportunities
 
+-------
 
-🧾 Dataset Description (Explaination of  Raw Data)
+
+##🧾 Dataset Description (Explaination of  Raw Data)
 
 The dataset represents call center interaction records, where each row corresponds to a single customer call.
+-
 
-Key fields include:
+**Key fields include:**
 
-Call Date – when the call occurred
+- **Call Date** – Date when the call occurred  
+- **Representative** – Agent handling the call  
+- **Call Duration** – Total time spent on the call  
+- **Amount** – Revenue generated from the interaction (₹)  
+- **Rating** – Customer satisfaction score (1–5)  
+- **Gender & Location** – Customer demographics 
 
-Representative – agent handling the call
+This data enables analysis across **time, agents, revenue, and customer experience**.
 
-Call Duration – total time spent on the call
-
-Amount – revenue generated from the interaction (₹)
-
-Rating – customer satisfaction score (1–5)
-
-Gender & Location – customer demographics
-
-This data allows analysis across time, agents, revenue, and customer experience.
+-------
 
 
-📈 Key KPIs Tracked
+##📈 Key KPIs Tracked
 
 Total Calls Handled
 
@@ -53,25 +55,23 @@ Happy Callers (High-rating interactions)
 
 
 
-📊 Dashboard Highlights
+##📊 Dashboard Highlights
 
-Monthly Call Trend: Identifies seasonal peaks (March & October)
-
-Day-wise Call Volume: Saturdays show the highest call load
-
-Agent Performance: Comparison of calls handled vs revenue generated
-
-Customer Ratings: Majority of interactions rated 4–5, indicating positive experience
-
-Demographics: Caller distribution by gender and location.
+- **Monthly Call Trend:** Identifies seasonal peaks (March & October)  
+- **Day-wise Call Volume:** Saturdays show the highest call load  
+- **Agent Performance:** Comparison of calls handled vs. revenue generated  
+- **Customer Ratings:** Majority of interactions rated 4–5, indicating positive experience  
+- **Demographics:** Caller distribution by gender and location  
 (Screenshots here 👇)
 
 ![Dashboard Overview](Dashboard.png)
 
+-------
 
 
 
-💡 Key Insights
+
+##💡 Key Insights
 
 Call volume spikes during specific months, indicating seasonal demand.
 
@@ -81,15 +81,19 @@ Some agents generate higher revenue with fewer calls, indicating better efficien
 
 Overall customer satisfaction is positive, but mid-level ratings present improvement scope.
 
+------
 
 
-🧠 Business Recommendations
+
+##🧠 Business Recommendations
 
 Increase staffing during peak months and weekends.
 
 Use high-performing agents as benchmarks for training.
 
 Focus on improving call resolution quality to increase 4+ ratings.
+
+------
 
 
 🛠 Tools Used
