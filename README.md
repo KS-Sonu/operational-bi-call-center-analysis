@@ -63,7 +63,13 @@ Agent Performance: Comparison of calls handled vs revenue generated
 
 Customer Ratings: Majority of interactions rated 4–5, indicating positive experience
 
-Demographics: Caller distribution by gender and location
+Demographics: Caller distribution by gender and location.
+(Screenshots here 👇)
+
+![Dashboard Overview](Dashboard.png)
+
+
+
 
 💡 Key Insights
 
