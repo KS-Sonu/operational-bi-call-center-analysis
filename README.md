@@ -99,5 +99,5 @@ Microsoft Excel (PivotTables, Charts, Slicers)
 Data Analysis & Business Intelligence techniques
 
 ## Dashboard Interactivity (Slicer Demo)
-![Dashboard Interaction](images/dashboard_interaction.gif)
+![Dashboard Interaction](dashboard_interaction.gif)
 
