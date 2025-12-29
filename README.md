@@ -97,3 +97,7 @@ Focus on improving call resolution quality to increase 4+ ratings.
 Microsoft Excel (PivotTables, Charts, Slicers)
 
 Data Analysis & Business Intelligence techniques
+
+## Dashboard Interactivity (Slicer Demo)
+![Dashboard Interaction](images/dashboard_interaction.gif)
+
